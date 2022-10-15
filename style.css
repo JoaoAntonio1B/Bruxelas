@@ -1,0 +1,107 @@
+.body {
+	margin: 0px
+}
+
+.TituloPrincipal {
+	font-size: 32px;
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 10px;
+	border-color: #000000;
+	border: 5px;
+	background: #999999;
+}
+
+.Central {
+	text-align: center;
+}
+
+.Tópicos {
+	font-size: 26px;
+	text-align: left;
+	display: inline-block;
+}
+
+.Tópicoscentralizados {
+	font-size: 26px;
+	text-align: center
+}
+
+.p1 {
+	margin: 20px;
+}
+
+.p2 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 10px;
+	background: #999999;
+}
+
+.p3 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 26px;
+	text-align: left;
+
+}
+
+.InlineBlock {
+	display: inline-block;
+	width: 50%;
+	margin: 20px;
+	vertical-align: top;
+}
+
+.InlineBlock2 {
+	display: inline-block;
+	margin: 20px;
+	vertical-align: top;
+	width: 50%;
+}
+
+.InlineBlock3 {
+	display: inline-block;
+	width: 50%;
+	margin-top: 5%;
+	margin-left: 15%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	vertical-align: top;
+}
+
+.InlineBlockTxt {
+	display: inline-block;
+	font-size: 18px;
+}
+
+.Antigo {
+	max-width: 25%;
+	margin-left: 20px;
+}
+
+.bandeira {
+	max-width: 45%;
+}
+
+.Urbano {
+	max-width: 20%;
+}
+
+#Panorama {
+	max-width: 100%;
+	max-height: 50%;
+}
+
+.Txt {
+	font-size: 18px;
+}
+
+.Créditos {
+	font-size: 18px;
+}
